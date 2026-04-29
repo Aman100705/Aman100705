@@ -81,4 +81,4 @@ I'm not just learning to pass exams — I'm building the skill set to ship real 
 </p>
 
 
-<p align="center"><i>⭐ From <a href="https://github.com/Aman100705">YOUR_USERNAME</a> — stay curious, ship things, stay dangerous.</i></p>
+<p align="center"><i>⭐ From <a href="https://github.com/Aman100705">Aman100705</a> — stay curious, ship things, stay dangerous.</i></p>
